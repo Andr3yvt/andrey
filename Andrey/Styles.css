@@ -37,6 +37,11 @@ body{
     border: 2px solid var(--cor-de-fundo);
 }
 body {
-    background-color: #383D58;
+    background-color: #7A51EE;
     color: white;
+}
+
+.cabecario360{
+
+    width: 20%;
 }
