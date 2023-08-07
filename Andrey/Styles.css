@@ -45,3 +45,11 @@ body {
 
     width: 20%;
 }
+
+.principal{
+    background-image: ult("Img/Formula-amico1.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    align-items: baseline;
+    text-align:left;
+}
